@@ -1,0 +1,49 @@
+.all{
+    margin: 0px;
+    padding: 0px 30px ;
+
+}
+
+
+
+.header{
+    font-family: montserrat ,sans-serif;
+    text-align:center;
+    font-size: 32px;
+    padding-top: 50px ;
+
+}
+.container p{
+    padding-top: 55px ;
+    color: #45338D;
+    line-height: 18.75px;
+
+}
+.text-bold{
+    font-family: roboto;
+
+}
+
+.italic{
+    font-style: italic;
+
+}
+.container-pink{
+    background-color: #CC3C3C52;
+    color:#E2296C;
+    margin-top: 40px;
+    line-height: 16.41px;
+    font-size: 14px;
+
+
+}
+ .container-pink p{
+    padding: 15px 15px 20px 15px;
+}
+.color{
+    color: #fff;
+}
+
+.flower{
+    
+}
