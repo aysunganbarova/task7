@@ -1,49 +1,86 @@
-.all{
+body {
     margin: 0px;
-    padding: 0px 30px ;
+}
+
+.container {
+    margin: 0px;
+    margin: 0px 30px;
 
 }
 
 
 
-.header{
-    font-family: montserrat ,sans-serif;
-    text-align:center;
+.header {
+    font-family: Montserrat, sans-serif;
+    text-align: center;
     font-size: 32px;
-    padding-top: 50px ;
+    margin: 55px 0px;
 
 }
-.container p{
-    padding-top: 55px ;
+
+.wrapper p {
+    margin-bottom: 40px;
     color: #45338D;
     line-height: 18.75px;
 
 }
-.text-bold{
-    font-family: roboto;
+
+.text-bold {
+    font-family: "Roboto", sans-serif;
 
 }
 
-.italic{
+.italic {
     font-style: italic;
 
 }
-.container-pink{
+
+.wrapper-pink {
     background-color: #CC3C3C52;
-    color:#E2296C;
-    margin-top: 40px;
+    color: #E2296C;
+    margin-bottom: 40px;
     line-height: 16.41px;
     font-size: 14px;
 
 
 }
- .container-pink p{
+
+.wrapper-pink p {
     padding: 15px 15px 20px 15px;
 }
-.color{
+
+.color {
     color: #fff;
 }
 
-.flower{
+.flower {
+    position: relative;
+    margin-bottom: 45px;
+}
+
+.flower img {
+    width: 100%
     
+
+}
+
+.flower span {
+    position: absolute;
+    left: 15px;
+    top: 30px;
+    width: 330px;
+    font-family: "Roboto" ,sans-serif;
+    font-style: italic;
+    line-height: 21.09px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.nature{
+    width: 50%;
+    border: 2px solid #36B561;
+    padding: 15px;
+}
+.nature img{
+    width: 100%;
 }
